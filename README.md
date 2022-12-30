@@ -1,3 +1,2 @@
 # MyBack
-It's always said in the name.
-I need to use this link to download safety the backdoor.
+Please be careful and do not download the file, which is a backdoor. I need it for work, once I finish I'll remove it instantly.
