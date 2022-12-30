@@ -1,0 +1,21 @@
+Buongiorno professor Mannucci, o buonasera a seconda di quando leggerà il contenuto di questo file
+di testo, di seguito le riporterò ciò che ho capito durante questi giorni nell'informarmi su
+spyware, backdoor o trojans. C'è innnanzitutto da dire che la creazione di virus per prendere il
+controllo del computer dell'obbiettivo e/o del suo telefono, o semplicemente la creazione di uno
+spyware in grado di monitorare una determinata periferica, viene spesso realizzata in python o in
+file batch poi convertiti in eseguibile. Ci tengo a sottolineare che tutto ciò vale solo ove il 
+sistema operativo della "vittima" sia Windows o Android, poiché Apple e Mac sono un mondo a parte e
+tutto diverso. Non sto dicendo che sia impossibile penetrare in un loro sistema, sto solo dicendo
+che le ricerche che ho fatto io erano finalizzate su un altro sistema operativo e che quindi non 
+sarebbero andate bene anche per Mac. Trovo molto interessante come una backdoor possa essere creata
+in python e raggiunga un livello di personalizzazione altissimo. Più una backdoor, o in generale un
+virus, è fuori dall'ordinario e più quest'ultimo non sarà riconoscibile dagli antivirus, anche 
+quelli più famosi. Nel caso della backdoor che ho creato io solo Kaspersky e Norton riescono ad 
+individuarla. I trojans possono essere creati grazie al powershell di Windows, diciamo che è uno dei
+metodi più rapidi e funzionali, naturalmente devono essere composti da due parti: la prima che serve 
+come "esca", e può essere un qualsiasi tipo di file, e la seconda che racchiude il programma 
+eseguibile. C'è da evidenziare che deve per forza essere un eseguibile se si vuol farlo partire 
+all'apertura del programma esca altrimenti sarà solo una perdita di memoria. Detto questo non le
+rubo altro tempo e, se vorrà, ne riparleremo meglio a scuola.
+
+-Gabriele Mori
